@@ -1,4 +1,7 @@
-# Welcome<img src="https://github.com/AlekseyShashkov/AlekseyShashkov/assets/17510024/1e5d1216-3367-418e-a39f-d41529aebb73" width="71"/>
+<div id="banner" align="center">
+  <img src="https://github.com/AlekseyShashkov/AlekseyShashkov/blob/main/img/Github%20banner.gif" width="100%" alt="Github banner"/>
+</div>
+
 [![Github](https://img.shields.io/twitter/url?label=AlekseyShashkov&logo=Github&style=plastic&url=https%3A%2F%2Fgithub.com%2FAlekseyShashkov)](https://github.com/AlekseyShashkov) [![Gmail](https://img.shields.io/twitter/url?label=rover8096%40gmail.com&logo=Gmail&style=plastic&url=https%3A%2F%2Fg.zeos.in%2F%3Fq%3DGmail%26m%3D1)](https://g.zeos.in/?q=Gmail&m=1)
 
 :v: Glad to see you! 
