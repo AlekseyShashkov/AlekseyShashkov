@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
     </kbd>
     ...and many others 
 </div>
@@ -75,16 +75,16 @@
 </div>
 
 ###
-
+<hr />
 <div id="web buttons" align="center">
     <kbd>
-        <img src="https://github.com/user-attachments/assets/45e0f5b5-2f9c-4ec6-b8f1-794e0b5d7635" />  
-        <img src="https://github.com/user-attachments/assets/3e6a6514-aaa6-4445-b5b8-8e2ef8eb560c" /> 
+        <img src="https://github.com/user-attachments/assets/8bc3613f-1939-4ea4-9dfe-46db2aae7eb4" />     
+        <img src="https://github.com/user-attachments/assets/47c421fc-b6b3-4093-9b4e-25f909b445d9" />
         <img src="https://github.com/user-attachments/assets/069cadd2-f61c-46c2-b9ce-dee4537e75b6" /> 
-        <img src="https://github.com/user-attachments/assets/a5247390-0362-4e0f-b8a2-45b45d701137" /> 
-        <img src="https://github.com/user-attachments/assets/7ec7707f-3a28-4941-b1b7-46f6ff5e0e3c" /> 
-        <img src="https://github.com/user-attachments/assets/81bf5848-dde4-4482-9c71-d37a181469af" /> 
-        <img src="https://github.com/user-attachments/assets/8bc3613f-1939-4ea4-9dfe-46db2aae7eb4" /> 
-        <img src="https://github.com/user-attachments/assets/47c421fc-b6b3-4093-9b4e-25f909b445d9" /> 
+        <img src="https://github.com/user-attachments/assets/81bf5848-dde4-4482-9c71-d37a181469af" />  
+        <img src="https://github.com/user-attachments/assets/b6257aeb-dcd5-4923-9e6a-79728a2da31a" />
+        <img src="https://github.com/user-attachments/assets/7ec7707f-3a28-4941-b1b7-46f6ff5e0e3c" />
+        <img src="https://github.com/user-attachments/assets/3e6a6514-aaa6-4445-b5b8-8e2ef8eb560c" />
+        <img src="https://github.com/user-attachments/assets/49dc7de3-38f0-416a-8be2-552113a282a0" />
     </kbd>
 </div>
