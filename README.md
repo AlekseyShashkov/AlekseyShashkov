@@ -1,38 +1,37 @@
 <div id="header" align="center">
     <kbd>
-        <img src="img/Github%20Banner.gif" width="100%" alt="Welcome to my Github Profile" />
+        <a href="https://github.com/AlekseyShashkov" target="_blank" title="Banner"> <img src="img/Github%20Banner.gif" width="100%" alt="Welcome Banner" /> </a>
     </kbd>
-    <h2><img src="https://github.com/user-attachments/assets/fef311f4-b412-4b2c-aab4-2cdc792df104" width="30px" /> Hey, I'm Aleksey. <img src="https://github.com/user-attachments/assets/fef311f4-b412-4b2c-aab4-2cdc792df104" width="30px" /></h2>
+    <h2> <img src="img/gif/diamond.gif" width="30px" alt="Diamond" /> Hey, I'm Aleksey. <img src="img/gif/diamond.gif" width="30px" alt="Diamond" /> </h2>
 </div>
 
 ###
 
 <div id="profile info" align="left">
-    <p><img src="https://github.com/user-attachments/assets/4690d32d-2157-4fdd-89c8-a89319e0b416" width="25px" /> Here you'll find my projects, experiments and work. </p>
-    <p><img src="https://github.com/user-attachments/assets/53e27e2a-4daa-4e2d-ad6f-f5663ff68de3" width="25px" /> I'm passionate about development, love exploring new technologies and enjoy sharing my knowledge. </p>
-    <p><img src="https://github.com/user-attachments/assets/bdd2aa65-2403-454a-9bf2-e9fbe244f36b" width="25px" /> I want to move forward and get more experience. Also, I love programming, music and traveling. Teamwork is what I enjoy the most, but          I do not mind working by myself.
-    </p>
-    <p><img src="https://github.com/user-attachments/assets/2730f511-c271-45d8-8475-fa223144df68" width="25px" /> Feel free to reach out with any questions, suggestions or collaboration ideas! </p>
+    <p> <img src="img/gif/pot.gif" width="25px" /> Here you'll find my projects, experiments and work. </p>
+    <p> <img src="img/gif/grimoire-spellbook purple.gif" width="25px" /> I'm passionate about development, love exploring new technologies and enjoy sharing my knowledge. </p>
+    <p> <img src="img/gif/grimoire-spellbook red.gif" width="25px" /> I want to move forward and get more experience. Also, I love programming, music and traveling. Teamwork is what I enjoy the most, but I do not mind working by myself. </p>
+    <p> <img src="img/gif/manidhaya.gif" width="25px" /> Feel free to reach out with any questions, suggestions or collaboration ideas! </p>
 </div>
 
 ###
 
-<div id="contact info" align="left">
-    <h3>Get In Touch</h3>
+<div id="contacts" align="left">
+    <h3> Get In Touch </h3>
     <kbd>
         <a href="mailto:rover8096@gmail.com" target="_blank" title="Mail">
             <img src="https://img.shields.io/badge/-Gmail-ff4500?style=flat&logo=gmail&logoColor=white" />
         </a>
         <a href="https://www.linkedin.com/in/aleksey-shashkov/" target="_blank" title="LinkedIn">
             <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
-        </a>  
+        </a>
     </kbd>
 </div>
 
 ###
 
 <div id="languages and tools" align="left">
-    <h3>What I Work With</h3>
+    <h3> What I Work With </h3>
     <kbd>
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
@@ -45,7 +44,7 @@
 
 ###
 
-<div id="profile stats" align="left">
+<div id="stats" align="left">
     <table>
         <tr>
             <th> 
@@ -61,7 +60,7 @@
             </th>
             <th>       
                 <picture>
-                     <source
+                    <source
                         srcset="https://github-readme-stats.vercel.app/api?username=AlekseyShashkov&theme=transparent&hide_border=true&text_color=FFFFFF&show_icons=true&icon_color=61dafb&title_color=61dafb"
                         media="(prefers-color-scheme: dark)" />
                     <source
@@ -75,16 +74,17 @@
 </div>
 
 ###
+
 <hr />
-<div id="web buttons" align="center">
-    <kbd>
-        <img src="https://github.com/user-attachments/assets/8bc3613f-1939-4ea4-9dfe-46db2aae7eb4" />     
-        <img src="https://github.com/user-attachments/assets/47c421fc-b6b3-4093-9b4e-25f909b445d9" />
-        <img src="https://github.com/user-attachments/assets/069cadd2-f61c-46c2-b9ce-dee4537e75b6" /> 
-        <img src="https://github.com/user-attachments/assets/81bf5848-dde4-4482-9c71-d37a181469af" />  
-        <img src="https://github.com/user-attachments/assets/b6257aeb-dcd5-4923-9e6a-79728a2da31a" />
-        <img src="https://github.com/user-attachments/assets/7ec7707f-3a28-4941-b1b7-46f6ff5e0e3c" />
-        <img src="https://github.com/user-attachments/assets/3e6a6514-aaa6-4445-b5b8-8e2ef8eb560c" />
-        <img src="https://github.com/user-attachments/assets/49dc7de3-38f0-416a-8be2-552113a282a0" />
+<div id="buttons" align="center">
+    <kbd>       
+        <img src="img/web/clip7.gif" />     
+        <img src="img/web/best_show_time_for_your_life.gif" />
+        <img src="img/web/cooltxt.gif" /> 
+        <img src="img/web/free.gif" />  
+        <img src="img/web/johns_cyberworld04.gif" />
+        <img src="img/web/msie07.gif" />
+        <img src="img/web/classicgaming.gif" />
+        <img src="img/web/hosted_by_host4u.gif" />        
     </kbd>
 </div>
