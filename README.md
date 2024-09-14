@@ -52,12 +52,10 @@
                 <picture>
                     <source
                         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyShashkov&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=61dafb"
-                        media="(prefers-color-scheme: dark)"
-                    / >
+                        media="(prefers-color-scheme: dark)" />
                     <source
                         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyShashkov&layout=compact"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    / >
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                     <img src="https://github-readme-stats.vercel.app/api?username=AlekseyShashkov" height="150px" />
                 </picture>
             </th>
@@ -65,12 +63,10 @@
                 <picture>
                      <source
                         srcset="https://github-readme-stats.vercel.app/api?username=AlekseyShashkov&theme=transparent&hide_border=true&text_color=FFFFFF&show_icons=true&icon_color=61dafb&title_color=61dafb"
-                        media="(prefers-color-scheme: dark)"
-                    / >
+                        media="(prefers-color-scheme: dark)" />
                     <source
                         srcset="https://github-readme-stats.vercel.app/api?username=AlekseyShashkov&show_icons=true"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    / >
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                     <img src="https://github-readme-stats.vercel.app/api?username=AlekseyShashkov&show_icons=true" height="150px" />
                 </picture>
             </th>
