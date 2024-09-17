@@ -33,10 +33,10 @@
 <div id="languages and tools" align="left">
     <h3> What I Work With </h3>
     <kbd>
-        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
     </kbd>
     ...and many others 
